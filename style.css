@@ -1,0 +1,51 @@
+body{
+  
+    background: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/close-up-of-cat-wearing-sunglasses-while-sitting-royalty-free-image-1571755145.jpg")
+}
+
+
+input{
+    border-radius: 50px;
+    margin-left: 500px;
+    margin-top: 20px;
+    width: 600px;
+    padding-left: 180px;
+}
+button{
+    color: orangered;
+    background-image: linear-gradient(orange,red);
+    
+}
+
+a{
+    color: black;
+    }
+  h2{
+        margin-left: 450px;
+        margin-top: 180px;
+        background-color: orangered;
+        width: 45%;
+        padding-left: 180px;
+    }
+    H1{
+        margin-left: 600px;
+        background-color: orangered;
+        width: 25%;
+        padding-left: 130px;
+    }
+    div{
+        background-color: orangered;
+        padding: 15px;
+        margin-top: 15px;
+        width: 0%;
+        height: 0%;
+        margin-top: 50px;
+    }
+    #col-1{
+        background-color: orangered;
+        padding: 15px;
+        margin-top: 15px;
+        width: 0%;
+        height: 0%;
+    }
+    
